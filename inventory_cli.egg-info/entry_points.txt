@@ -1,0 +1,2 @@
+[console_scripts]
+inventory = inventory_cli.__main__:main

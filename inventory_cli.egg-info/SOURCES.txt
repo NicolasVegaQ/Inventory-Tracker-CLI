@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+inventory_cli/__main__.py
+inventory_cli.egg-info/PKG-INFO
+inventory_cli.egg-info/SOURCES.txt
+inventory_cli.egg-info/dependency_links.txt
+inventory_cli.egg-info/entry_points.txt
+inventory_cli.egg-info/requires.txt
+inventory_cli.egg-info/top_level.txt

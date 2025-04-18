@@ -1,0 +1,18 @@
+[project]
+name = "inventory-cli"
+version = "0.1.0"
+description = "CLI para gestionar tinventarios"
+authors = [{ name = "NicolasV" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "typer[all]",
+  "tabulate"
+]
+
+[project.scripts]
+inventory = "inventory_cli.__main__:main"
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"

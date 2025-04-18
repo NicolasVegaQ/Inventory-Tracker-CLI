@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: inventory-cli
+Version: 0.1.0
+Summary: CLI para gestionar tinventarios
+Author: NicolasV
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: typer[all]
+Requires-Dist: tabulate
+
+# Inventory-Tracker-CLI
